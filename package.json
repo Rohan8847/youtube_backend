@@ -1,0 +1,17 @@
+{
+  "name": "yotube_backend",
+  "version": "1.0.0",
+  "description": "Here i create the youtube backend.",
+  "keywords": [
+    "javascript",
+    "backend",
+    "youtube"
+  ],
+  "license": "ISC",
+  "author": "Rohan kushwaha",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
